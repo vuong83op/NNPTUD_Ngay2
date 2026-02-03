@@ -1,6 +1,4 @@
-// ============================================
-// BÀI TẬP VỀ ĐỐI TƯỢNG PRODUCT
-// ============================================
+
 
 // Câu 1: Khai báo hàm constructor Product để tạo đối tượng sản phẩm
 function Product(id, name, price, quantity, category, isAvailable) {
